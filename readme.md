@@ -3,18 +3,18 @@
 ### 🚀 Java Full Stack Developer | Backend Developer | Web Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Hibernate;REST+API+%7C+MySQL+%7C+React;Building+Clean+%26+Scalable+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Hibernate;REST+API+%7C+MySQL+%7C+React;Building+Clean+%26+Scalable+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/satyajitmarkad2004">
+    <img src="https://img.shields.io/badge/GitHub-satyajitmarkad2004-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/satyajit-markad-986a21253">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:markadsatyajit@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -22,32 +22,32 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Java Full Stack Developer** and **BCA graduate** from Savitribai Phule Pune University with a strong interest in building reliable, scalable, and user-friendly web applications.
+I'm a **Java Full Stack Developer** and **BCA graduate** with hands-on experience in developing responsive and database-driven web applications.
 
-I enjoy working across both **frontend and backend development**, from designing responsive interfaces to developing REST APIs, integrating databases, implementing authentication, and debugging applications.
+I enjoy building applications from frontend interfaces to backend services and database integration. I have experience working with **Java, Spring Boot, JDBC, Servlets, JSP, Hibernate, JPA, MySQL, JavaScript, React and Angular**.
 
-* 🎓 **BCA Graduate | CGPA: 8.00/10**
-* 💻 Focused on **Java Full Stack Development**
-* ☕ Strong foundation in **Java, OOP, Collections & Exception Handling**
-* 🌱 Hands-on experience with **Spring Boot, Hibernate & JPA**
-* 🔗 Experienced in **REST API Development**
-* 🗄️ Database experience with **MySQL & PostgreSQL**
-* 🎨 Frontend experience with **HTML, CSS, JavaScript, React & Angular**
-* 🛠️ Comfortable with **Git, GitHub, Maven, Postman & Eclipse**
-* 🤖 Exploring **AI-assisted software development**
-* 📚 Always learning and improving my development skills
+* 🎓 BCA Graduate | **CGPA: 8.00/10**
+* ☕ Java Full Stack Development
+* 🌱 Spring Boot, Hibernate & JPA
+* 🔗 REST API Development
+* 🗄️ MySQL & PostgreSQL
+* 🎨 HTML, CSS, JavaScript, Bootstrap
+* ⚛️ React.js & Angular
+* 🛠️ Git, GitHub, Maven & Postman
+* 🤖 Exploring AI-assisted development
+* 💡 Interested in building real-world software solutions
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### ☕ Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,js,ts,sql,python" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
@@ -55,15 +55,15 @@ I enjoy working across both **frontend and backend development**, from designing
 
 **Java • Spring Boot • Spring MVC • Servlets • JSP • JDBC • Hibernate • JPA • REST APIs**
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,angular" />
 </p>
 
-**HTML5 • CSS3 • JavaScript • Bootstrap • React.js • Angular • TypeScript • Responsive Web Design**
+**HTML5 • CSS3 • JavaScript • Bootstrap • React.js • Angular • TypeScript**
 
-### 🗄️ Databases
+### 🗄️ Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
@@ -71,7 +71,7 @@ I enjoy working across both **frontend and backend development**, from designing
 
 **MySQL • PostgreSQL • SQL • Joins • CRUD Operations • Database Management**
 
-### 🔧 Tools & Technologies
+### 🔧 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,eclipse,idea,postman,jenkins" />
@@ -87,22 +87,22 @@ I enjoy working across both **frontend and backend development**, from designing
 
 **Java | JSP | Servlets | JDBC | Hibernate | MySQL | HTML | CSS | JavaScript**
 
-A web-based Gym Management System developed using **MVC architecture** to manage gym-related operations.
+A web-based Gym Management System developed using **MVC architecture** for managing gym operations.
 
-### ✨ Key Features
+### ✨ Features
 
-* 🔐 User authentication
-* 👤 Role-based session management
-* ➕ Create, Read, Update & Delete operations
-* 🗄️ MySQL database integration
-* 🔌 JDBC & Hibernate integration
-* 🎨 Responsive JSP-based user interface
-* ✅ Input validation
-* ⚠️ Exception handling
-* 🌐 Cross-browser compatibility
+* 🔐 User Authentication
+* 👤 Role-Based Session Management
+* ➕ CRUD Operations
+* 🗄️ MySQL Database Integration
+* 🔌 JDBC & Hibernate
+* 🎨 Responsive JSP Interface
+* ✅ Input Validation
+* ⚠️ Exception Handling
+* 🌐 Cross-Browser Compatibility
 
-**Repository:**
-👉 `Add your GitHub repository link here`
+🔗 **Repository:**
+https://github.com/satyajitmarkad2004
 
 ---
 
@@ -110,45 +110,49 @@ A web-based Gym Management System developed using **MVC architecture** to manage
 
 **Java | JSP | Servlets | JDBC | Hibernate | Spring | MySQL | JavaScript**
 
-An interactive online Quiz Application with authentication, quiz management, automated result calculation, and timer-based functionality.
+An interactive online Quiz Application with authentication, quiz management and automated result calculation.
 
-### ✨ Key Features
+### ✨ Features
 
-* 🔐 User authentication
-* 👤 Session tracking
-* 📝 Quiz management
-* ⏱️ Timer-based quiz functionality
-* 🧮 Automatic result calculation
-* 🗄️ MySQL database integration
-* ✅ Input validation
-* ⚠️ Exception handling
-* 📊 Persistent quiz and result storage
+* 🔐 User Authentication
+* 👤 Session Tracking
+* 📝 Quiz Management
+* ⏱️ Timer-Based Quiz
+* 🧮 Automatic Result Calculation
+* 🗄️ MySQL Database
+* ✅ Input Validation
+* ⚠️ Exception Handling
+* 📊 Persistent Result Storage
 
-**Repository:**
-👉 `Add your GitHub repository link here`
+🔗 **Repository:**
+https://github.com/satyajitmarkad2004
 
 ---
 
-# 💼 Experience
+# 💼 Professional Experience
 
-### Full Stack Web Developer — Excellent Programming Laboratory
+### 💻 Full Stack Web Developer
 
-**Jun 2025 – Present**
+**Excellent Programming Laboratory (EPL Classes)**
+
+`June 2025 – Present`
 
 * Developed the institution's official website independently.
 * Built responsive frontend interfaces using HTML5, CSS3, JavaScript and Bootstrap.
 * Developed backend services using Java, JDBC, Servlets and MySQL.
-* Integrated frontend and backend using MVC architecture.
-* Performed debugging, testing and performance optimization.
+* Implemented MVC architecture for maintainable application structure.
+* Performed debugging, testing and code optimization.
 
-### Web Developer Intern — Career Corps x Samanyastra
+### 🌐 Web Developer Intern
 
-**Feb 2025 – Apr 2025**
+**Career Corps x Samanyastra**
+
+`February 2025 – April 2025`
 
 * Developed responsive and interactive web pages.
 * Worked with HTML5, CSS3, JavaScript and Bootstrap.
 * Built reusable frontend components and landing pages.
-* Used Git and GitHub for version control and collaboration.
+* Used Git and GitHub for version control.
 * Participated in debugging, testing and performance optimization.
 
 ---
@@ -156,8 +160,8 @@ An interactive online Quiz Application with authentication, quiz management, aut
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=satyajitmarkad2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajitmarkad2004&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -165,15 +169,15 @@ An interactive online Quiz Application with authentication, quiz management, aut
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=satyajitmarkad2004&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🐍 Contribution Activity
+# 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/satyajitmarkad2004/satyajitmarkad2004/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
@@ -193,51 +197,50 @@ An interactive online Quiz Application with authentication, quiz management, aut
 
 ---
 
-# 🏆 Certifications & Achievements
+# 🏆 Certifications & Education
 
-🏅 **Certificate of Excellence — Full Stack Web Development**
-Excellent Programming Laboratory | ISO 9001:2015
+### 🎓 Bachelor of Computer Applications
 
-🏅 **Certificate of Internship — Web Developer**
-Career Corps x Samanyastra
+**Savitribai Phule Pune University**
 
-🎓 **Bachelor of Computer Applications (BCA)**
-Savitribai Phule Pune University | **CGPA: 8.00/10**
+`2023 – 2026`
+
+**CGPA: 8.00/10**
+
+### 🏅 Full Stack Web Development
+
+**Excellent Programming Laboratory**
+
+Certificate of Excellence — ISO 9001:2015
+
+### 🏅 Web Developer Internship
+
+**Career Corps x Samanyastra**
+
+February 2025 – April 2025
 
 ---
 
-# 💡 Development Philosophy
-
-> **"Build it. Break it. Debug it. Improve it. Repeat."**
-
-I believe in writing clean, maintainable code, continuously learning new technologies, and solving real-world problems through software.
-
----
-
-# 📫 Let's Connect
+# 💡 My Development Philosophy
 
 <p align="center">
+
+### "Build it. Break it. Debug it. Improve it. Repeat. 🚀"
+
+</p>
+
+I believe in writing **clean, maintainable and reliable code**, continuously learning new technologies, and solving real-world problems through software development.
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/satyajitmarkad2004">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/satyajit-markad-986a21253">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:markadsatyajit@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  ⭐ If you find my projects useful, consider giving them a star!
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</
